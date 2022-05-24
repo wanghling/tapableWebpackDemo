@@ -1,0 +1,26 @@
+{
+  "name": "tapablewebpackdemo",
+  "version": "1.0.0",
+  "description": "tapable webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanghling/tapableWebpackDemo.git"
+  },
+  "keywords": [
+    "tapable",
+    "webpack"
+  ],
+  "author": "violin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wanghling/tapableWebpackDemo/issues"
+  },
+  "homepage": "https://github.com/wanghling/tapableWebpackDemo#readme",
+  "devDependencies": {
+    "tapable": "^2.2.1"
+  }
+}
